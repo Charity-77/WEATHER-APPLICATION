@@ -1,5 +1,8 @@
 body {
-    background-color: #f9f7fe;
+    background-image: url(
+        https://s3.amazonaws.com/shecodesio-production/uploads/files/000/150/921/original/0dc87634e292d1c121ebf19e8f020463.jpeg?1732075706);\
+      background-repeat: no-repeat;
+    background-size: cover;
     font-family: "Roboto", sans-serif;
   }
   
