@@ -102,7 +102,7 @@ body {
   }
   .weather-forecast-icon {
     text-align: center;
-    font-size: 38px;
+    width: 100%;
     
   }
   .weather-forecast-temperatures{
